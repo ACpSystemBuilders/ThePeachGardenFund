@@ -1,0 +1,97 @@
+<html>
+<head>
+
+
+
+<TITLE>www.thepeachgardenfund.org</TITLE>
+
+ 
+
+
+</head>
+ 
+<body bgcolor="WHITE">
+
+
+
+<TABLE BGCOLOR="" WIDTH="88%" HEIGHT="88%">
+
+<TR>
+<TD BGCOLOR="WHITE" ALIGN="CENTER" height="20%">
+
+
+<p id="GitHubTest">/a></p>
+
+<script>
+
+<!--
+/*******************************
+* Bluetooth connect designed for
+* http://888.888.888.888/heat_exchange
+********************************/
+
+function myUbuntuBluetoothConnect() {
+var blueID = 
+	navigator.bluetooth.requestDevice;
+	console('response');
+var x=document.getElementById('GitHubTest').innerHTML=blueID;
+} 
+
+myUbuntuBluetoothConnect();
+
+//-->
+</script>
+
+
+</TD></TR>
+
+
+
+
+<TR>
+<TD BGCOLOR="WHITE" ALIGN="CENTER" height="72%">
+
+<p id="BlueSatH.COIN">
+</p>
+
+
+
+
+<script>
+
+<!--
+/*******************************
+* Geo designed for
+
+* http://888.888.888.888/PSP_Global/BlueSatH.COIN
+
+********************************/
+
+function myLocation() {
+var watchId = 
+	navigator.geolocation.watchPosition(position);
+		var long=watchId.position.coords.longitude();
+		var lat=watchId.position.coords.latitude();
+var x=document.getElementById('SmartHandheld.SBG').innerHTML=long+":"+lat;
+} 
+
+myLocation();
+
+</script>
+
+
+</TD></TR>
+
+
+
+
+
+
+
+</TABLE>
+
+
+
+
+</body>
+</html>
